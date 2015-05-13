@@ -6,7 +6,7 @@ AUTHOR = u'anonrab'
 SITENAME = u'anonrab@keep'
 SITEURL = ''
 
-THEME = '../pelican-svbhack'
+THEME = '/Users/kolombet/Documents/github/pelican-svbhack/'
 PATH = 'content'
 # путь к выходным html-файлам
 # в целом настройка не важна,
